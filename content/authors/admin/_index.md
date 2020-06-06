@@ -14,28 +14,27 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Cambridge
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Psychology
+- Social Media
+- Misinformation
+- Moral Psychology
+- Social Identity
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Psychology
+    institution: University of Cambridge
+    year: 2022 (Expected)
+  - course: BA in Psychology (Minor in Symbolic Systems)
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Steve Rathje is pursuing a PhD in Psychology at Trinity College, Cambridge as a Gates Cambridge Scholar. He previously studied Psychology and Symbolic Systems at Stanford University, where he graduated Junior Phi Beta Kappa and received the Sterling Award for academic excellence. He studies the spread of misinformation and polarizing content on social media (and how they can be mitigated) using computational and experimental methods.
