@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
+- name: Cambridge Social Decision-Making Lab
+  url: "https://www.sdmlab.psychol.cam.ac.uk/"
 - name: University of Cambridge
   url: ""
 
@@ -32,7 +34,7 @@ education:
   - course: PhD in Psychology
     institution: University of Cambridge
     year: 2022 (Expected)
-  - course: BA in Psychology (Minor in Symbolic Systems)
+  - course: BA in Psychology & Minor in Symbolic Systems
     institution: Stanford University
     year: 2018
 
